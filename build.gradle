@@ -2,7 +2,7 @@ plugins {
 	// Apply the java plugin to add support for Java
 	id 'java'
 
-	// Facilitates building archives that serve as project distributions
+	// Facilitates building archives that serve as project distributions -new version
 	id 'distribution'
 }
 repositories {
