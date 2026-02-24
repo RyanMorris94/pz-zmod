@@ -1,6 +1,6 @@
 import java.nio.charset.StandardCharsets
 
-// directory containing generated lua library
+//test directory containing generated lua library
 project.ext.zDocLuaDir = file("$buildDir/generated/sources/zdoc/").absoluteFile
 
 repositories {
